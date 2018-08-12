@@ -6,9 +6,9 @@ import Buy from './pages/Buy';
 import Form from './pages/Form';
 import HomeScreen from './pages/HomeScreen';
 import Login from './pages/Login-components/login';
+import Resources from './pages/Resources';
 import Signup from './pages/Signup-components/signup';
 import UserHome from './pages/UserHomepage';
-import Resources from './pages/Resources';
 
 
 class App extends React.Component {
